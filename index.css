@@ -1,0 +1,52 @@
+
+#userForm {
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+}
+
+#userForm label {
+    font-family: 'Inconsolata', monospace;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    padding: 3px;
+}
+
+#username {
+    margin-top: 8px;
+}
+
+#profile {
+    max-width: 800px;
+    max-height: 800px;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+}
+
+#error-container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.error-title {
+    text-align: center;
+    font-family: 'Chakra Petch', Georgia, sans-serif;
+}
+
+.hidden {
+    display: none;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
