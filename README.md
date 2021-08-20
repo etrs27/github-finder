@@ -6,5 +6,6 @@ Moreover, it will show their total number of public repos and gists.
 You can learn more about the user by visiting their GitHub profile by selecting the visit button.
 
 This page uses The Users API from GitHub.
-You can reference it here: https://docs.github.com/en/rest/reference/users#list-users.
+You can reference it here: <a href="https://docs.github.com/en/rest/reference/users#list-users" target="_blank">GitHub Docs</a>
 
+You can begin your search here: <a href="https://etrs27.github.io/github-finder/" target="_blank">GitHub Profile Finder</a>
