@@ -29,6 +29,10 @@ img {
     width: 100%;
 }
 
+.badge-container {
+    margin-top: 12px;
+}
+
 #error-container {
     max-width: 600px;
     margin: auto;

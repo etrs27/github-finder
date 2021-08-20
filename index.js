@@ -31,8 +31,10 @@ function getProfile(e){
                                 <img src="${user.avatar_url}">
                             </div>
                             <div class="col-md-9">
-                                <span class="badge bg-primary">Public Repos ${user.public_repos}</span>
-                                <span class="badge bg-danger">Public Gists ${user.public_gists}</span>
+                                <div class="badge-container">
+                                    <span class="badge bg-primary">Public Repos ${user.public_repos}</span>
+                                    <span class="badge bg-danger">Public Gists ${user.public_gists}</span>
+                                </div>
                                 <br><br>
                                 <ul class="list-group bg-light">
                                     <li class="list-group-item"><b>Website:</b> ${user.blog}</li>
